@@ -47,11 +47,7 @@ Most recently, as a full-stack AI engineer, I've been architecting systems that 
 
 ## 📊 GitHub Activity
 
-[![Chiranjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiranjit-B&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)](https://github.com/Chiranjit-B)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranjit-B&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/Chiranjit-B)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chiranjit-B&theme=transparent&hide_border=true)](https://github.com/Chiranjit-B)
----
+Check out my [contribution graph and pinned repos](https://github.com/Chiranjit-B) directly on my profile.
 
 ### Let's build systems that turn raw data into decisions.
 
