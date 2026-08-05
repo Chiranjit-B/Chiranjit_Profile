@@ -51,4 +51,4 @@ Check out my [contribution graph and pinned repos](https://github.com/Chiranjit-
 
 ### Let's build systems that turn raw data into decisions.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/chiranjit-banerjee/) · [Explore my repositories](https://github.com/Chiranjit-B?tab=repositories)
+
